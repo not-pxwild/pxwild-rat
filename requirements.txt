@@ -1,0 +1,8 @@
+requests
+colorama
+psutil
+pillow
+opencv-python
+pynput
+pyaudio
+pywin32
