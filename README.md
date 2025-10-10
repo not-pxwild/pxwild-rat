@@ -79,7 +79,7 @@ Ensure Python 3.8+ is installed. Install required dependencies for the chosen me
    - Open `client.py` and update the server details:
      ```python
      SERVER_IP = "YOUR_SERVER_IP_HERE"  # Replace with your server's IP
-     SERVER_PORT = 5555                # Replace with your server's port
+     SERVER_PORT = 5555 
      ```
    - For local testing, use `127.0.0.1` as the IP.
 
