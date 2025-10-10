@@ -1,4 +1,4 @@
-# System Administration Console
+# Oversec-Rat
 
 **pxwild.com** - For support or questions, contact me at [pxwild.com](https://pxwild.com).
 
@@ -53,7 +53,7 @@ Ensure Python 3.8+ is installed. Install required dependencies for the chosen me
 
 2. **Run the GUI**:
    ```bash
-   python all.py
+   python app.py
    ```
 
 3. **Configure**:
