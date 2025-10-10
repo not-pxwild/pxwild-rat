@@ -68,7 +68,7 @@ Ensure Python 3.8+ is installed. Install required dependencies for the chosen me
    pip install requests psutil pynput pywin32 opencv-python
    ```
 
-2. **Start the Server**:
+2. **Start the Server(for you)**:
    ```bash
    python server.py
    ```
@@ -83,7 +83,7 @@ Ensure Python 3.8+ is installed. Install required dependencies for the chosen me
      ```
    - For local testing, use `127.0.0.1` as the IP.
 
-4. **Run Client on Target System**:
+4. **Run Client on Target System(for target)**:
    ```bash
    python client.py
    ```
