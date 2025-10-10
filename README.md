@@ -78,7 +78,7 @@ Ensure Python 3.8+ is installed. Install required dependencies for the chosen me
 3. **Edit Client Script**:
    - Open `client.py` and update the server details:
      ```python
-     SERVER_IP = "YOUR_SERVER_IP_HERE"  # Replace with your server's IP
+     SERVER_IP = "YOUR_SERVER_IP_HERE"  # Replace with your public IP
      SERVER_PORT = 5555 
      ```
    - For local testing, use `127.0.0.1` as the IP.
