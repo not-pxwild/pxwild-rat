@@ -44,7 +44,7 @@ To hide your public IP address, do not rely solely on obfuscation. Converting th
 
 Ensure Python 3.8+ is installed. Install required dependencies for the chosen method.
 
-### Method 1: GUI Version (`all.py`)
+### Method 1: GUI Version (`app.py`)
 
 1. **Install Dependencies**:
    ```bash
