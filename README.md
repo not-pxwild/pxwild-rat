@@ -1,6 +1,6 @@
 # pxwild RAT
 
-[![pxwild](https://pxwild.com/logo.png)](https://pxwild.com)  
+[![pxwild](https://files.catbox.moe/nk9lsh.gif)](https://pxwild.com)  
 **Ethical Research Tool Only** – For authorized cybersecurity research. Do not use without explicit consent. Owner: [pxwild](https://pxwild.com)
 
 ## Overview
