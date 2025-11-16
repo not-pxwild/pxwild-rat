@@ -9,7 +9,7 @@ pxwild RAT v2.0 is a prototype for ethical red teaming and security research. Us
 ## Installation
 1. Download the repository files.
 2. Install deps: `pip install -r requirements.txt`
-3. Build: Run `python builder.py` with your Discord token/channel.
+3. Build: Run `python builder.py` 
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://files.catbox.moe/0hdxk1.png" alt="Cyber Research Banner" style="height: 280px; width: auto;" />
