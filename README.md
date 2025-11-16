@@ -12,8 +12,8 @@ pxwild RAT v2.0 is a prototype for ethical red teaming and security research. Us
 3. Build: Run `python builder.py` with your Discord token/channel.
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://files.catbox.moe/0hdxk1.png" alt="Cyber Research Banner" style="height: 250px; width: auto;" />
-  <img src="https://files.catbox.moe/uj9gve.png" alt="Additional Research Image" style="height: 250px; width: auto;" />
+  <img src="https://files.catbox.moe/0hdxk1.png" alt="Cyber Research Banner" style="height: 280px; width: auto;" />
+  <img src="https://files.catbox.moe/uj9gve.png" alt="Additional Research Image" style="height: 280px; width: auto;" />
 </div>
 
 ## Features
