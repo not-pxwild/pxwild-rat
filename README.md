@@ -1,7 +1,7 @@
 # pxwild RAT
 
 [![pxwild](https://files.catbox.moe/nk9lsh.gif)](https://pxwild.com)  
-**Ethical Research Tool Only** – For authorized cybersecurity research. Do not use without explicit consent. Owner: [pxwild](https://pxwild.com)
+**Ethical Research Tool Only** – Do not use without explicit consent. Owner: [pxwild](https://pxwild.com)
 
 ## Overview
 pxwild RAT v2.0 is a prototype for ethical red teaming and security research. Use in isolated labs/VMs only. Complies with laws when used responsibly.
