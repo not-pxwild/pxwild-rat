@@ -1,4 +1,4 @@
-# pxwild RAT
+# pxwild-rat 2.0
 
 [![pxwild](https://files.catbox.moe/nk9lsh.gif)](https://pxwild.com)  
 **Ethical Research Tool Only** – Do not use without explicit consent. Owner: [pxwild](https://pxwild.com)
