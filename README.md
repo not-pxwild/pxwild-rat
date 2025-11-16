@@ -13,7 +13,7 @@ pxwild RAT v2.0 is a prototype for ethical red teaming and security research. Us
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://files.catbox.moe/0hdxk1.png" alt="Cyber Research Banner" width="400" />
-  <img src="https://files.catbox.moe/your-image-here.png" alt="Additional Research Image" width="400" />
+  <img src="https://files.catbox.moe/uj9gve.png" alt="Additional Research Image" width="400" />
 </div>
 *Prototype interface for ethical testing (research use only).*
 
